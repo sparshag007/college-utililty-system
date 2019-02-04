@@ -15,7 +15,7 @@ PROPOSED SYSTEM:
 Our website consists of four modules regarding library, food, taxi and event registration system. The students can access this website and choose the system according to the requirements through their registration number and password.
 It will help the students to get things at a fair price and even to save their time.
 
-REFER TO THE WORD DOCUMENT 
+REFER TO THE PDF DOCUMENT 
 
 REFER TO THE FOLLOWING LINK FOR DETAILED EXPLANATION:
 https://youtu.be/JHGf5NCbNVg 
